@@ -1,0 +1,7 @@
+{
+ enlive                           #{"enlive"}
+ clj-tagsoup                      #{"tagsoup"}
+ aprint                           #{"apr"       "aprint"}
+ com.github.kyleburton/clj-xpath  #{"xpath"     "clj-xpath"}
+ org.clojure/tools.namespace      #{"tools-ns"  "tools-namespace"}
+}
